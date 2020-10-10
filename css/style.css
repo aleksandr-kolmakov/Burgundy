@@ -44,7 +44,7 @@ body {
     transition: all .5s;
 }
 
-.menu__list-link:hover{
+.menu__list-link:hover {
     color: #4E5665;
     border-bottom: 4px solid #8C001A;
 
